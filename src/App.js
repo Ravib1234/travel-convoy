@@ -19,6 +19,10 @@ function App() {
           </li>
         </ul>
       </div>
+
+      <div className="First-Sec">
+        <h1>This is a Travel Website</h1>
+      </div>
     </div>
   );
 }
