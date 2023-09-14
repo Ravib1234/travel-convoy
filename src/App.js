@@ -12,6 +12,9 @@ function App() {
             <h1>Destinations</h1>
           </li>
           <li>
+            <h1>Bookings </h1>
+          </li>
+          <li>
             <h1>Contact US</h1>
           </li>
           <li>
