@@ -26,6 +26,10 @@ function App() {
       <div className="First-Sec">
         <h1>This is a Travel Website</h1>
       </div>
+
+      <div className="Second-Sec">
+        <h1>Destination</h1>
+      </div>
     </div>
   );
 }
