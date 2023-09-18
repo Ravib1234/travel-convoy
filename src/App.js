@@ -24,11 +24,14 @@ function App() {
       </div>
 
       <div className="First-Sec">
-        <h1>This is a Travel Website</h1>
+        <h1>A One Stop Travel Destination for all of your travel needs</h1>
       </div>
 
       <div className="Second-Sec">
-        <h1>Destination</h1>
+        <h1>Destinations</h1>
+      </div>
+      <div className="Third-Sec">
+        <h1>Contact US</h1>
       </div>
     </div>
   );
