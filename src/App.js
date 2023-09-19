@@ -24,7 +24,7 @@ function App() {
       </div>
 
       <div className="First-Sec">
-        <h1>A One Stop Travel Destination for all of your travel needs</h1>
+        <h1>A One Stop Travel Destination for all of your travel need</h1>
       </div>
 
       <div className="Second-Sec">
