@@ -32,6 +32,13 @@ function App() {
       </div>
       <div className="Third-Sec">
         <h1>Contact US</h1>
+        Username : <input type="text" />
+        <br />
+        Lastame : &nbsp;&nbsp; <input type="text" />
+        <br />
+        Enter Email : <input type="text" /> <br />
+        <br />
+        <button className="submitbtn">Submit</button>
       </div>
     </div>
   );
