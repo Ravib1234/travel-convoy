@@ -29,6 +29,16 @@ function App() {
 
       <div className="Second-Sec">
         <h1>Destinations</h1>
+        <div className="Third-Sec">
+          <h1>Contact US</h1>
+          Username : <input type="text" />
+          <br />
+          Lastame : &nbsp;&nbsp; <input type="text" />
+          <br />
+          Enter Email : <input type="text" /> <br />
+          <br />
+          <button className="submitbtn">Submit</button>
+        </div>
       </div>
       <div className="Third-Sec">
         <h1>Contact US</h1>
