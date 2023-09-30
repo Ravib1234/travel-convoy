@@ -50,6 +50,27 @@ function App() {
         <br />
         <button className="submitbtn">Submit</button>
       </div>
+
+      <div className="footer">
+        <ul>
+          <li>
+            <h2>Home</h2>
+          </li>
+          <li>
+            <h2>Destinations</h2>
+          </li>
+          <li>
+            <h2>Contact US</h2>
+          </li>
+          <li>
+            <h2>Blog</h2>
+          </li>
+        </ul>
+        <div>
+          <h2>Contact Number</h2>
+          <h3>9848473840 </h3>
+        </div>
+      </div>
     </div>
   );
 }
